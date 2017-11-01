@@ -1,2 +1,6 @@
 who can see what is happening next
+<<<<<<< HEAD
 pero necesito mas cosass
+=======
+i have to add some more to this file
+>>>>>>> c041d8db73d7d88fffe4127d499e7de4f3f193a0
