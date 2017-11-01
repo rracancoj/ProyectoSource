@@ -1,3 +1,5 @@
 Esto ya es un texto mas serio para que ben y ann trabajen.
 Agregamos mas lineas para que esto sea otro commmit
 mientras tanto seguiremos aqui en master
+seguimos en master
+no entiendo que es esto de master y mod texto from master
